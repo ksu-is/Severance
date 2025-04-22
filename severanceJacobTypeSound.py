@@ -3,13 +3,13 @@ import json
 import pygame
 import os
 base_path = os.path.dirname(os.path.abspath(__file__))
-sound_path = os.path.join(base_path, "Sounds", "bleep027.mp3")
+sound_path = os.path.join(base_path, "Sounds", "bleep002.mp3")
 pygame.mixer.init()
 blipSound = pygame.mixer.Sound(sound_path)
-def typeSoundDavid(text, surface, font, color, pos, delay=0.06, sound_enabled=True, wrap_limit=50):
+def typeSoundJacob(text, surface, font, color, pos, delay=0.06, sound_enabled=True, wrap_limit=50):
     displayed = ""
     x, y = pos
-    font = pygame.font.SysFont("Arial", 14)
+    font = pygame.font.SysFont("Lora", 14)
     line_spacing = font.get_linesize()
 
     final_surfaces = []
@@ -39,4 +39,4 @@ def typeSoundDavid(text, surface, font, color, pos, delay=0.06, sound_enabled=Tr
     return final_surfaces
 # Function Test Code
 if __name__ == "__main__":
-    typeSoundDavid("Hello John", )
+    typeSoundJacob("Hello John")
