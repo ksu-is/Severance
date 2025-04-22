@@ -1,4 +1,4 @@
-# Untethered
+# The Vishnu Project
 Text-and-image-Based MultiMedia adventure game.
 # Functions
 - (Planned) Utilizes a Flask based web page to create a secondary image based aspect for the game
