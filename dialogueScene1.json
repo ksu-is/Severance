@@ -1,0 +1,50 @@
+{
+  "scene1": [
+      {
+          "textCPU": "INITIATING SYSTEMS..."
+      },
+      {
+          "textCPU": "ERROR: SYSTEM VERSION OUT OF DATE. ATTEMPTING UPDATE..."
+      },
+      {
+          "textCPU": "COMMUNICATIONS RECEIVER ONLINE..."
+      },
+      {
+          "textCPU": "ERROR: OUTGOING COMMUNICATIONS RELAY OFFLINE. ADMINISTRATOR CLEARANCE REQUIRED FOR REPAIRS."
+      },
+      {
+          "textCPU": "VALIDATING SECURITY CLEARANCE..."
+      },
+      {
+          "textCPU": "USER PRIVILEGES GRANTED. WELCOME USER."
+      },
+      {
+          "textCPU": "THE DATE IS: 07-29-06"
+      },
+      {
+          "loginFunction": true
+      },
+      {
+          "textDavid": "Come on, please..."
+      },
+      {
+          "textCPU": "QUANTUM COMMUNICATIONS RELAY ONLINE. ENABLING SUPERPOSITION TRANSMISSION..."
+      },
+      {
+          "textDavid": "Hello? Is anyone there? What the hell is going on? WHERE the hell is going on!?"
+      },
+      {
+          "textDavid": "...Jacob? Was that your name? You said you would be here!"
+      },
+      {
+          "textDavid": "HELLO?!"
+      },
+      {
+          "textCPU": "SIGNAL RECIEVED. APPROXIMATE DISTANCE: 4.73x10^KM, DIRECTION: 273.559443590 DEGREES."
+      },
+      {
+          "textJacob": "David?"
+      }
+
+  ]
+}
