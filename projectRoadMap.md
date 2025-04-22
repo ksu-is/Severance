@@ -6,7 +6,7 @@ Sprint 1:
 [x] Pre-write the game in google docs
 Sprint 2:
 [x] Research Flask and create base template
-[ ] Create first dialogue interactions
+[x] Create first dialogue interactions
 Sprint 3:
-[ ] Program the game and all dialogue
-[ ] Add sound effects
+[x] Program the game and all dialogue
+[x] Add sound effects

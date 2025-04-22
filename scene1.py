@@ -2,10 +2,10 @@ import time
 import pygame
 import json
 import os
-from severanceCPUTypeSound import typeSoundCPU
+from TVPCPUTypeSound import typeSoundCPU
 from scene1FunctionList import loginFunction
-from severanceDavidTypeSound import typeSoundDavid
-from severanceJacobTypeSound import typeSoundJacob
+from TVPDavidTypeSound import typeSoundDavid
+from TVPJacobTypeSound import typeSoundJacob
 base_path = os.path.dirname(os.path.abspath(__file__))
 text_path = os.path.join(base_path, "dialogueScene1.json")
 
