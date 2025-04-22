@@ -1,8 +1,8 @@
 import pygame
 import time
-from severanceCPUTypeSound import typeSoundCPU
+from TVPCPUTypeSound import typeSoundCPU
 import webbrowser
-from severanceDavidTypeSound import typeSoundDavid
+from TVPDavidTypeSound import typeSoundDavid
 import os
 import subprocess
 base_path = os.path.dirname(os.path.abspath(__file__))
