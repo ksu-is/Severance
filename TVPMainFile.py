@@ -41,7 +41,7 @@ def main():
     pygame.init()
     screen = pygame.display.set_mode((600, 400))
     pygame.display.set_caption("VISHNUWEBUI.EXE")
-    font = pygame.font.SysFont("consolas", 14)
+    font = pygame.font.SysFont("consolas", 18)
     pos = (50,250)
     color = (255,255,255)
     WHITE = (255, 255, 255)

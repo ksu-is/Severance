@@ -6,7 +6,7 @@ from scene1FunctionList import loginFunction
 from TVPDavidTypeSound import typeSoundDavid
 from TVPJacobTypeSound import typeSoundJacob
 base_path = os.path.dirname(os.path.abspath(__file__))
-text_path = os.path.join(base_path, "dialogueScene1.json")
+text_path = os.path.join(base_path, "dialogueScene2.json")
 
 def loadScript(text_path):
     with open(text_path, "r") as f:
@@ -14,7 +14,7 @@ def loadScript(text_path):
     
 script = loadScript(text_path)
 
-def scene1(script, surface, font, color, pos):
+def scene2(script, surface, font, color, pos):
     scene = script.get("scene1", [])
     time.sleep(3)
 
@@ -36,5 +36,6 @@ def scene1(script, surface, font, color, pos):
                 match key:
                     case "loginFunction":
                         loginFunction(surface, font, color, pos)
-                    
-                        
+                    case "fileInvestigation":
+                        #fileInvestigation(surface, font, color, pos)
+                        pass

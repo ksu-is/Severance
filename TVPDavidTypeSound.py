@@ -1,5 +1,4 @@
 import time
-import json
 import pygame
 import os
 base_path = os.path.dirname(os.path.abspath(__file__))
