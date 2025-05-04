@@ -34,17 +34,19 @@
           "textDavid": "Hello? Is anyone there? What the hell is going on? WHERE the hell is going on!?"
       },
       {
-          "textDavid": "...Jacob? Was that your name? You said you would be here!"
+          "textDavid": "...Jacob? Was that your name? You said you would be here! YOU PROMISED!"
       },
       {
           "textDavid": "HELLO?!"
       },
       {
-          "textCPU": "SIGNAL RECIEVED. APPROXIMATE DISTANCE: 4.73x10^KM, DIRECTION: 273.559443590 DEGREES."
+          "textCPU": "SIGNAL RECIEVED. APPROXIMATE DISTANCE: 4.73x10^13 KM, DIRECTION: 273.559443590 DEGREES."
       },
       {
-          "textJacob": "David?"
+          "textCPU": "SIGNAL METADATA: 1.2x10^3 BITS. ENCRYPTION: 256-BIT AES. SIGNAL DATE: "
+      },
+      {
+          "textCPU": "07-29-15053295903234584695975194345593195106"
       }
-
   ]
 }
